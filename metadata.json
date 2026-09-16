@@ -1,0 +1,6 @@
+{
+  "name": "BikinLegal.com - Jasa Pendirian PT, CV, Yayasan & Legalitas Usaha Resmi",
+  "description": "Jasa pendirian PT Perorangan, PT Konvensional, CV, Yayasan, Izin Usaha NIB OSS-RBA, Pendaftaran Merek HKI, dan Virtual Office resmi dari PT. Bikin Legalitas Bisnis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
